@@ -1,0 +1,8 @@
+.vscode/.ropeproject/config.py
+.vscode/.ropeproject/objectdb
+__pycache__/bird.cpython-39.pyc
+__pycache__/floor.cpython-39.pyc
+__pycache__/game.cpython-39.pyc
+__pycache__/pipe.cpython-39.pyc
+__pycache__/text.cpython-39.pyc
+flappy font/.DS_Store
